@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: "Fira Sans", sans-serif;
+    background-color: #ebebeb;
+    margin: 50px;
+  }
+
+  a {
+    color: #f31f31;
+    font-weight: bolder;
+    text-decoration: none;
+    font-family: "Fira Sans", sans-serif;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  p {
+    font-weight: bolder;
+    font-size: 18px;
+  }
